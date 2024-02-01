@@ -41,6 +41,8 @@ library(tidyverse)
 
 ```{r break-it-1}
 ### omg why are we so bad at this
+
+# what do you mean? We are so good at this!
 ```
 
 ## STEP 10: And even more merge conflicts!
