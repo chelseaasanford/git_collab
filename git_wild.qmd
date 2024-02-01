@@ -26,6 +26,7 @@ library(tidyverse)
 
 ```{r partner 2}
 ###Hi Chelsea!
+### hey dude
 
 ### In this code chunk, start with the diamonds dataset (built in to
 ### ggplot2 package) and create a subset based on filtering, e.g., 
