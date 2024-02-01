@@ -40,7 +40,7 @@ library(tidyverse)
 ## STEP 6: Uh oh, merge conflicts!
 
 ```{r break-it-1}
-### omg why are we so bad at this
+### let's see if this works?
 ```
 
 ## STEP 10: And even more merge conflicts!
