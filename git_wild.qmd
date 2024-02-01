@@ -29,15 +29,8 @@ library(tidyverse)
 ```
 
 ```{r partner 2}
-<<<<<<< HEAD
-=======
 ###Hi Chelsea!
 ### hey dude
-
->>>>>>> ea38fde441844a2ae603ca5181c67b7eb1ff59b1
-### In this code chunk, start with the diamonds dataset (built in to
-### ggplot2 package) and create a subset based on filtering, e.g., 
-### size greater than 1 carat or cut is "Ideal"
 ```
 
 ## STEP 6: Uh oh, merge conflicts!
