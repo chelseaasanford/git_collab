@@ -40,7 +40,13 @@ library(tidyverse)
 ## STEP 6: Uh oh, merge conflicts!
 
 ```{r break-it-1}
+<<<<<<< HEAD
 ### let's see if this works?
+=======
+### omg why are we so bad at this
+
+# what do you mean? We are so good at this!
+>>>>>>> ff3e6a0dbd38ef89fcd339504554f3da84e8642b
 ```
 
 ## STEP 10: And even more merge conflicts!
